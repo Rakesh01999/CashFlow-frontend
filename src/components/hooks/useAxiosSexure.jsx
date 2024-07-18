@@ -50,4 +50,4 @@ const useAxiosSexure = () => {
     );
 };
 
-export default useAxiosSexure;
+export default useAxiosSexure ;
