@@ -6,7 +6,7 @@ import useAxiospublic from '../../hooks/useAxiospublic';
 import Swal from 'sweetalert2'
 
 const fetchMobileData = async () => {
-  const response = await fetch('http://localhost:5000/mobile');
+  const response = await fetch('https://cash-flow-backend-lilac.vercel.app/mobile');
   if (!response.ok) {
     throw new Error('Network response was not ok');
   }

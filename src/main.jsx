@@ -85,7 +85,7 @@ const router = createBrowserRouter([
        {
          path:'agentmanage',
          element:<AgentManagement></AgentManagement>,
-         loader:()=>fetch(`http://localhost:5000/mobile`)
+         loader:()=>fetch(`https://cash-flow-backend-lilac.vercel.app/mobile`)
        },
        {
          path:'adminpermit',

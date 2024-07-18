@@ -88,7 +88,7 @@ const Cashout = () => {
             
             let charge = 0;
             charge = parseFloat((money * 1.5) / 100)
-            console.log(charge) 
+            // console.log(charge) 
             if(charge + money > taka){
                 Swal.fire({
                     icon: "error",

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Mohan Sarkar",
+        "phone": "01321629262",
+        "email": "mohansarkar@gmail.com",
+        "pin": "$2a$10$CmIgX3QeMc8bvNa1fv1.JejApvk2Ey7NbwkkUw56RNyjOU7Jk4D2i",
+        "status": "incomplete",
+        "role": "user",
+        "balanced": 600
+    },
+    {
+        "name": "Asif Khan",
+        "phone": "01423620263",
+        "email": "asif@khan.com",
+        "pin": "$2a$10$8LNQRDCyrNIheazJD8EfpuFIfAm8K.bsfVIzGqBAyoOxU85W80KPu",
+        "status": "incomplete",
+        "role": "agent",
+        "balanced": 500
+    },
+    {
+        "name": "admin",
+        "phone": "01627620982",
+        "email": "admin@gmail.com",
+        "status": "incomplete",
+        "role": "admin",
+        "balanced": 500
+    }
+]
